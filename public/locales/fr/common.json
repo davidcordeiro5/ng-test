@@ -1,0 +1,15 @@
+{"home": {
+  "title": "Salut jeune aventurier!",
+  "description": "Node Guardians est une plateforme pour les builders, les penseurs et les acteurs. Notre mission est de soutenir les écosystèmes cryptographiques innovants et prometteurs, et de contribuer à l'avenir d'un Internet décentralisé. Nous le faisons à travers l'éducation et l'infrastructure.",
+  "goToQuests": "Commencer l'aventure"
+}, "quest": {
+  "backButton": "Retoure",
+  "charact": {
+    "skill": "Compétence",
+    "skillTree": "Arb. de compétence",
+    "difficulty": "Difficulté",
+    "type": "Type",
+    "gold": "Or",
+    "experience": "Experience"
+  }
+}}

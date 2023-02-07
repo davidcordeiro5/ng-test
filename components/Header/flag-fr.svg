@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  
+  <g fill="none" fill-rule="evenodd" transform="translate(0 8)">
+    
+    <rect width="55" height="39" x=".5" y=".5" fill="#FFF" stroke="#F5F5F5" rx="4"/>
+    <rect width="18.667" height="40" x="37.333" fill="#F44653"/>
+    <rect width="18.667" height="40" fill="#1035BB" />
+  </g>
+</svg>

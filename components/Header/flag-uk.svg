@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <rect id="flag_united_kingdom_uk-a" width="56" height="40" x="0" y="0" rx="4"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 8)">
+    <mask id="flag_united_kingdom_uk-b" fill="#fff">
+      <use xlink:href="#flag_united_kingdom_uk-a"/>
+    </mask>
+    <use fill="#FFF" xlink:href="#flag_united_kingdom_uk-a"/>
+    <rect width="56" height="40" fill="#0A17A7" mask="url(#flag_united_kingdom_uk-b)"/>
+    <path fill="#FFF" d="M58.5649384,-3.83289246 L61.5473005,0.588641259 L42.6516995,13.3331075 L56,13.3333333 L56,26.6666667 L42.6516995,26.6661075 L61.5473005,39.4113587 L58.5649384,43.8328925 L34.6656995,27.7121075 L34.6666667,42.6666667 L21.3333333,42.6666667 L21.3326995,27.7131075 L-2.5649384,43.8328925 L-5.54730055,39.4113587 L13.3476995,26.6661075 L8.8817842e-16,26.6666667 L8.8817842e-16,13.3333333 L13.3476995,13.3331075 L-5.54730055,0.588641259 L-2.5649384,-3.83289246 L21.3326995,12.2861075 L21.3333333,-2.66666667 L34.6666667,-2.66666667 L34.6656995,12.2871075 L58.5649384,-3.83289246 Z" mask="url(#flag_united_kingdom_uk-b)"/>
+    <line x1="37.336" x2="62.667" y1="12.664" y2="-4" stroke="#DB1F35" stroke-linecap="round" stroke-width="1.333" mask="url(#flag_united_kingdom_uk-b)"/>
+    <line x1="40.026" x2="62.733" y1="42.701" y2="27.395" stroke="#DB1F35" stroke-linecap="round" stroke-width="1.333" mask="url(#flag_united_kingdom_uk-b)" transform="matrix(1 0 0 -1 0 70.096)"/>
+    <line x1="16.011" x2="-7.675" y1="12.621" y2="-3.342" stroke="#DB1F35" stroke-linecap="round" stroke-width="1.333" mask="url(#flag_united_kingdom_uk-b)"/>
+    <line x1="18.58" x2="-7.675" y1="44.621" y2="27.21" stroke="#DB1F35" stroke-linecap="round" stroke-width="1.333" mask="url(#flag_united_kingdom_uk-b)" transform="matrix(1 0 0 -1 0 71.83)"/>
+    <polygon fill="#E6273E" points="0 24 24 24 24 40 32 40 32 24 56 24 56 16 32 16 32 0 24 0 24 16 0 16" mask="url(#flag_united_kingdom_uk-b)"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+{"home": {
+  "title": "Hi young adventurer!",
+  "description": "Node Guardians is a platform for builders, thinkers, and stakers. Our mission is to bolster innovative and promising crypto ecosystems, and contribute to the future of a decentralized internet. We do this through education and infrastructure.",
+  "goToQuests": "Start the adventure."
+}, "quest": {
+  "backButton": "Back",
+  "charact": {
+    "skill": "Skill",
+    "skillTree": "Skill tree",
+    "difficulty": "Difficulty",
+    "type": "Type",
+    "gold": "Gold",
+    "experience": "Experience"
+  }
+}}
